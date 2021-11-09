@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Prueba2</string>
+    <string-array name="planets_array">
+        <item>Santiago</item>
+        <item>Valparaíso</item>
+        <item>Rancagua</item>
+        <item>Talca</item>
+        <item>Copiapó</item>
+        <item>Chillán</item>
+        <item>Punta Arenas</item>
+    </string-array>
+
+</resources>
